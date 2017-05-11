@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 0fb57fdf1506f4d4da5a0c63d1dac59c
+timeCreated: 1461097475
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _frame_smart_queue: {instanceID: 0}
+  - script_graphics_root: {instanceID: 0}
+  - main_camera: {instanceID: 0}
+  - main_screen: {instanceID: 0}
+  - subscreen_container: {instanceID: 0}
+  - screen_header: {instanceID: 0}
+  - subscreen_scrollbar: {instanceID: 0}
+  - screen_scroller: {instanceID: 0}
+  - faculty_button: {instanceID: 0}
+  - hours_button: {instanceID: 0}
+  - sfp_cal_button: {instanceID: 0}
+  - faculty_screen: {instanceID: 0}
+  - faculty_root: {instanceID: 0}
+  - faculty_data: {instanceID: 0}
+  - faculty_expanded: {instanceID: 0}
+  - faculty_member_prefab: {fileID: 11492742, guid: c36a6e59223fa4c068793c459a0c09e2,
+      type: 2}
+  - faculty_data_scrollbar: {instanceID: 0}
+  - faculty_screen_loader: {instanceID: 0}
+  - hours_data: {instanceID: 0}
+  - hours_expanded: {instanceID: 0}
+  - today_expanded: {instanceID: 0}
+  - today_member_prefab: {instanceID: 0}
+  - today_data: {instanceID: 0}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
